@@ -1,68 +1,60 @@
-Taskify - Your Ultimate To-Do List App
+# Taskify - Your Ultimate To-Do List App
 
 Taskify is a simple yet powerful Flutter-based to-do list app designed to help you stay organized, boost productivity, and manage your daily tasks efficiently.
 
-Features
+## Features
 
-✅ Create & Manage Tasks – Add, edit, delete, and mark tasks as completed.
+- ✅ **Create & Manage Tasks** – Add, edit, delete, and mark tasks as completed.
+- 📅 **Task Scheduling** – Set due dates and reminders for important tasks.
+- 🏷 **Categories & Tags** – Organize tasks with categories and labels.
+- 🔔 **Notifications & Reminders** – Get timely notifications to stay on track.
+- 🌙 **Dark Mode** – User-friendly UI with light and dark themes.
+- 📊 **Task Progress Tracker** – Keep track of your completed tasks.
+- 🔄 **Sync Across Devices** – Store tasks in the cloud for seamless access.
 
-📅 Task Scheduling – Set due dates and reminders for important tasks.
-
-🏷 Categories & Tags – Organize tasks with categories and labels.
-
-🔔 Notifications & Reminders – Get timely notifications to stay on track.
-
-🌙 Dark Mode – User-friendly UI with light and dark themes.
-
-📊 Task Progress Tracker – Keep track of your completed tasks.
-
-🔄 Sync Across Devices – Store tasks in the cloud for seamless access.
-
-Installation
+## Installation
 
 To run Taskify on your local machine:
 
-Clone the Repository:
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/taskify.git
+   cd taskify
+   ```
+2. **Install Dependencies:**
+   ```bash
+   flutter pub get
+   ```
+3. **Run the App:**
+   ```bash
+   flutter run
+   ```
 
-git clone https://github.com/yourusername/taskify.git
-cd taskify
+## Screenshots
 
-Install Dependencies:
+![Taskify Screenshot 1](screenshots/screen1.png)
+![Taskify Screenshot 2](screenshots/screen2.png)
 
-flutter pub get
+## Technologies Used
 
-Run the App:
+- **Flutter** (Dart)
+- **Firebase** (for authentication and cloud storage)
+- **Provider** (for state management)
+- **Hive** (local storage)
 
-flutter run
-
-
-
-Technologies Used
-
-Flutter (Dart)
-
-Firebase (for authentication and cloud storage)
-
-Provider (for state management)
-
-Hive (local storage)
-
-Contribution
+## Contribution
 
 We welcome contributions! To contribute:
+1. Fork the repository.
+2. Create a feature branch (`feature-branch-name`).
+3. Commit your changes and push.
+4. Submit a pull request.
 
-Fork the repository.
+## License
 
-Create a feature branch (feature-branch-name).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Commit your changes and push.
+## Contact
 
-Submit a pull request.
+For any queries or suggestions, reach out at: **dharshanm22@gmail.com**
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
-
-For any queries or suggestions, reach out at: dharshanm22@gmail.com
