@@ -1,16 +1,68 @@
-# todolist
+Taskify - Your Ultimate To-Do List App
 
-A new Flutter project.
+Taskify is a simple yet powerful Flutter-based to-do list app designed to help you stay organized, boost productivity, and manage your daily tasks efficiently.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+✅ Create & Manage Tasks – Add, edit, delete, and mark tasks as completed.
 
-A few resources to get you started if this is your first Flutter project:
+📅 Task Scheduling – Set due dates and reminders for important tasks.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🏷 Categories & Tags – Organize tasks with categories and labels.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔔 Notifications & Reminders – Get timely notifications to stay on track.
+
+🌙 Dark Mode – User-friendly UI with light and dark themes.
+
+📊 Task Progress Tracker – Keep track of your completed tasks.
+
+🔄 Sync Across Devices – Store tasks in the cloud for seamless access.
+
+Installation
+
+To run Taskify on your local machine:
+
+Clone the Repository:
+
+git clone https://github.com/yourusername/taskify.git
+cd taskify
+
+Install Dependencies:
+
+flutter pub get
+
+Run the App:
+
+flutter run
+
+
+
+Technologies Used
+
+Flutter (Dart)
+
+Firebase (for authentication and cloud storage)
+
+Provider (for state management)
+
+Hive (local storage)
+
+Contribution
+
+We welcome contributions! To contribute:
+
+Fork the repository.
+
+Create a feature branch (feature-branch-name).
+
+Commit your changes and push.
+
+Submit a pull request.
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+
+For any queries or suggestions, reach out at: dharshanm22@gmail.com
