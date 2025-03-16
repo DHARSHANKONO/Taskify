@@ -30,11 +30,6 @@ To run Taskify on your local machine:
    flutter run
    ```
 
-## Screenshots
-
-![Taskify Screenshot 1](screenshots/screen1.png)
-![Taskify Screenshot 2](screenshots/screen2.png)
-
 ## Technologies Used
 
 - **Flutter** (Dart)
