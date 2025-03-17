@@ -111,9 +111,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     });
                   }),
                   children: [SlidableAction(
-                      onPressed: (context) {
-                        // This action is not used but can be configured if needed
-                      },
+                      onPressed: (context) {},
                       icon: Icons.delete,
                       backgroundColor: const Color.fromARGB(255, 255, 99, 99),
                     ),],
